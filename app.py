@@ -6,7 +6,7 @@ from datetime import date
 
 # --- CONFIGURATION ---
 PAGE_TITLE = "Minimal Wallet"
-PAGE_ICON = "💳"
+PAGE_ICON = "🐉"
 LAYOUT = "wide"
 
 # Filenames
