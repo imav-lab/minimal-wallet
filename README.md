@@ -22,8 +22,8 @@ Designed to run locally on your home server (Proxmox, Raspberry Pi, etc.) withou
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/imav-lab/smart-wallet.git](https://github.com/imav-lab/smart-wallet.git)
-    cd smart-wallet
+    git clone [https://github.com/imav-lab/minimal-wallet.git](https://github.com/imav-lab/minimal-wallet.git)
+    cd minimal-wallet
     ```
 2.  Install dependencies:
     ```bash
