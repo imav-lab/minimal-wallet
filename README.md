@@ -1,4 +1,4 @@
-# 💳 Smart Wallet
+# 💳 Minimal Wallet
 
 A **Simple**, **Minimal**, and **Self-hosted** personal finance tool built for privacy enthusiasts.
 

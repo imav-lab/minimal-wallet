@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from datetime import date
 
 # --- CONFIGURATION ---
-PAGE_TITLE = "My Wallet 6.0"
+PAGE_TITLE = "Minimal Wallet"
 PAGE_ICON = "💳"
 LAYOUT = "wide"
 
@@ -186,7 +186,7 @@ with st.sidebar:
             st.success(f"Added {new_cat_name}")
             st.rerun()
 
-st.title("💾 Smart Wallet System")
+st.title("💾Minimal Wallet")
 
 # --- MAIN TABS ---
 tab_expenses, tab_income, tab_overview, tab_edit, tab_cats = st.tabs([
